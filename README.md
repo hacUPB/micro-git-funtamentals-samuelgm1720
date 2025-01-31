@@ -48,7 +48,7 @@ git status
 
 | Titulo              |
 |---------------------|
-| [Uso consola](./docs/repositorio_remoto.md)         |
+| [Uso consola](./docs/uso_consola.md)                |
 | [Repositorio local](./docs/repositorio_local.md)    |
 | [Repositorio remoto](./docs/repositorio_remoto.md)  |
 
