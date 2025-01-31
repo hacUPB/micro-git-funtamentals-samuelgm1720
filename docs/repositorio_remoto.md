@@ -1,7 +1,9 @@
 # Crear un repositorio en GitHub
 
 1. Ve a [GitHub](https://github.com/) e inicia sesión.  
+![alt text](<../images/Captura de pantalla 2025-01-31 160402.png>)
 2. En la parte superior derecha, haz clic en el botón *New* (o ve a [GitHub New Repository](https://github.com/new)).  
+![alt text](<../images/Captura de pantalla 2025-01-31 160509.png>)
 3. Ingresa un nombre para el repositorio (por ejemplo, mi_repositorio).  
 4. Haz clic en *Create repository*.  
 
