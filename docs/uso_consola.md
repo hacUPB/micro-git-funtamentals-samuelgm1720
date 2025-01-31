@@ -1,5 +1,7 @@
 # Comandos basicos
 
+--- 
+
 - pwd: Muestra la ruta actual del directorio.
 - ls: Lista los archivos y carpetas en el directorio actual.
 - ls -l: Muestra detalles como permisos, tamaño y fecha de modificación.

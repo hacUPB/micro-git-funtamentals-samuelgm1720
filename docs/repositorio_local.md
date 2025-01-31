@@ -76,6 +76,6 @@ git status  # Muestra los cambios pendientes y el estado del repositorio.
 git log  # Muestra el historial de commits.
 ```
 
-![alt text](image.png)  
+![alt text](<../images/Captura de pantalla 2025-01-31 151200.png>)
 
 Se ve de esta manera en el git bash
