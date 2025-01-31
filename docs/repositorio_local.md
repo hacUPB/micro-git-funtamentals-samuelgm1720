@@ -75,3 +75,7 @@ git commit -m "Primer commit: Agregando archivo de prueba"
 git status  # Muestra los cambios pendientes y el estado del repositorio.
 git log  # Muestra el historial de commits.
 ```
+
+![alt text](image.png)  
+
+Se ve de esta manera en el git bash
